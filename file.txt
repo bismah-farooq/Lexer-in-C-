@@ -1,0 +1,3 @@
+x = x + 4
+(sum + 47) / total
+oldsum! - value/100
